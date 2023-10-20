@@ -1,1 +1,3 @@
-Unformatted input/output
+- Unformatted input involves reading data without regard to its format or structure.
+- It's used when the data doesn't have a fixed or known format, or when the program doesn't need to interpret the data based on a specific pattern.
+- Unformatted input functions are typically used to read individual characters or bytes, and they don't impose any particular structure on the data.
