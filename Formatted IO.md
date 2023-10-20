@@ -1,1 +1,3 @@
-
+- Formatted input involves reading data from a source while adhering to a specific format or structure.
+- It's used when the data to be read is expected to follow a predefined pattern, such as numbers in a specific format (e.g., integers or floating-point numbers), strings with specific delimiters, or dates in a certain format.
+- Formatted input functions are often used to parse and convert the input data into appropriate data types.
